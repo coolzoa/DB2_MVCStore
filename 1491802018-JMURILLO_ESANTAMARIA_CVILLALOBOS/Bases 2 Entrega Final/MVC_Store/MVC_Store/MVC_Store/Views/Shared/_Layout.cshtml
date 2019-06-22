@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @if (ViewBag.userLog == false)
+                {
+                    @Html.ActionLink("Online Store", "Index", "User", new { area = "" }, new { @class = "navbar-brand" })
+                }
+                else
+                {
+                    @Html.ActionLink("Online Store", "Index", "User", new { area = "" }, new { @class = "navbar-brand" })
+                }
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    <li style="padding-top: 12px;">
+                        @using (Html.BeginForm("SearchFunction", "Home")) {
+                            @Html.TextBox("search_text")
+                            <input type="submit" value="Search"/>
+                        }
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("Cart", "Cart", "Home")
+                    </li>
+
+                    @if (ViewBag.userLog == false)
+                    {
+                        <li>@Html.ActionLink("Log In", "LogIn", "Home")</li>
+                        <li>@Html.ActionLink("Register", "Register", "Home")</li>
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Profile", "UserProfile", "User")</li>
+                        if (ViewBag.userAdmin == true)
+                        {
+                            <li>@Html.ActionLink("Admin", "Admin", "User")</li>
+                        }
+                        <li>@Html.ActionLink("Log Out", "LogOut", "User")</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

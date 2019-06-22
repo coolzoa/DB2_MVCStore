@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register New User</h2>
+
+@using (Html.BeginForm("Register", "User")) {
+    @Html.Label("Email:")<br/>
+    @Html.TextBox("email")<br/>
+    @Html.Label("First Name:")<br/>
+    @Html.TextBox("first")<br/>
+    @Html.Label("Last Name:")<br/>
+    @Html.TextBox("last")<br/>
+    @Html.Label("Password:")<br/>
+    @Html.Password("password_1")<br/>
+    @Html.Label("Confirm Password:")<br/>
+    @Html.Password("password_2")<br/><br/>
+    <input type="submit" value="Create Account"/>
+}
+

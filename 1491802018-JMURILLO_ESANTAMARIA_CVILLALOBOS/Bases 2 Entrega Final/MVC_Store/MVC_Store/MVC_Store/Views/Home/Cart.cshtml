@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Cart";
+}
+
+<h2>Cart</h2>
+
+<div>
+    <table class="table">
+        <tr>
+            <th>
+            </th>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Units
+            </th>
+        </tr>
+        @foreach (var i in ViewBag.list2)
+        {
+            <tr>
+                <td>
+                    <img src="@string.Format("/Home/ShowPicture/{0}", i.img_id)" />
+                </td>
+                <td>
+                    @i.name
+                </td>
+                <td>
+                    @i.description
+                </td>
+                <td>
+                    @i.price
+                </td>
+                <td>
+                    @foreach (var j in ViewBag.list)
+                    {
+                        if (i.id == j.id)
+                        {
+                            @j.units
+                        }
+                    }
+                </td>
+                <td>
+                    <button>@Html.ActionLink("View", "ViewProduct", "Product", new { name = @i.name, description = @i.description, price = @i.price, units = @i.units, product_id = @i.id, id_img = @i.img_id }, null)</button>
+                    <button>@Html.ActionLink("Remove", "removeCartItem", "Home", new { id = @i.id }, null)</button>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+@if (ViewBag.buyButton == true)
+{
+    <button>@Html.ActionLink("Buy Cart Items", "buyItems", "User")</button>
+}
+else {
+    <p>There are no products in the cart right now.</p>
+}
+

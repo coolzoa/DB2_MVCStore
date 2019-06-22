@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "UserProfile";
+}
+
+<h2>@ViewBag.first @ViewBag.last</h2>
+
+<p>Email Address: @ViewBag.email</p>
+
+<h3>Purchased History:</h3>
+
+@if (ViewBag.l == true)
+{
+    var temp = "";
+    foreach (var i in ViewBag.history) {
+        if (!temp.Equals(i.date)) {
+            temp = i.date;
+            <h4>@i.date _____________________________________________________________________________________________</h4>
+        }
+        <table class="table">
+            <tr>
+                <th>
+                    Picture
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Units
+                </th>
+            </tr>
+            @foreach (var j in ViewBag.listProducts)
+            {
+                if (i.productid == j.id)
+                {
+                    <tr>
+                        <td>
+                            <img src="@string.Format("/Home/ShowPicture/{0}", @j.img_id)" />
+                        </td>
+                        <td>
+                           @j.name
+                        </td>
+                        <td>
+                            @j.price
+                        </td>
+                        <td>
+                            @i.units
+                        </td>
+                        <td>                
+                        </td>
+                    </tr>
+                }
+            }
+        </table>
+    }
+}
+else
+{
+    <div>
+        <p>This user han't adquire any item yet.</p>
+    </div>
+}

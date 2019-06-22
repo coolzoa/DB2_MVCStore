@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "SearchUser";
+}
+
+
+<br />
+<div>
+    @using (Html.BeginForm("SearchUser", "Admin"))
+    {
+        @Html.Label("Write User: ")
+        @Html.TextBox("search_text")
+        <input type="submit" value="Search" />
+    }
+</div>
+
+<div>
+    <p id="users">
+        @foreach (var i in ViewBag.userList)
+        {
+            <p>@i.email - @i.first @i.last <button>@Html.ActionLink("Upgrade Account", "GiveUpgrade", "Admin", new { email = @i.email }, null)</button></p>
+        }            
+    <p/>
+</div>

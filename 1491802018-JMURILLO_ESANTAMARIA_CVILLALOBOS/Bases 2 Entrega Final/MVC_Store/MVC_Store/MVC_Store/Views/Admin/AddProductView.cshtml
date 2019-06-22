@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "AddProductView";
+}
+
+<h2>Add new Product:</h2>
+
+@using (Html.BeginForm("AddProduct", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.Label("Name:")<br />
+    @Html.TextBox("p_name")<br /><br />
+    @Html.Label("Description:")<br />
+    @Html.TextArea("p_description", new { @class = "required", @cols = 40, @rows = 5 })<br /><br />
+    @Html.Label("Price:")<br />
+    @Html.TextBox("p_price")<br /><br />
+    @Html.Label("Units:")<br />
+    @Html.TextBox("p_units")<br /><br />
+    @Html.Label("Upload Product Image:")<br />
+    <input type="file" id="theFile" name="theFile"/>
+    <br /><br />
+    <input type="submit" value="AddProduct"/>
+    
+}
+    
+

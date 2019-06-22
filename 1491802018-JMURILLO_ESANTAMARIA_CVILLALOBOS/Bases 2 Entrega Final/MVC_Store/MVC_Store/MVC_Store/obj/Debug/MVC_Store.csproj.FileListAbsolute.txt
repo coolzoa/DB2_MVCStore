@@ -1,0 +1,240 @@
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\ApplicationInsights.config
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\System.AppContext.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.Web.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.ApplicationInsights.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\MySql.Data.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\MySql.Data.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.ApplicationInsights.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\bin\Microsoft.AI.Web.xml
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csprojResolveAssemblyReference.cache
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\extreme PC\Desktop\TEC\Bases de Datos II\Proyectos\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\ApplicationInsights.config
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\System.AppContext.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.Web.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MySql.Data.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MySql.Data.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Microsoft.AI.Web.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MongoDB.Bson.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MongoDB.Driver.Core.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MongoDB.Driver.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MongoDB.Bson.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MongoDB.Driver.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\MongoDB.Driver.Core.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Neo4jClient.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Neo4jClient.pdb
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\Neo4jClient.xml
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\StackExchange.Redis.dll
+C:\Users\Charlie\Desktop\MVC_Store\MVC_Store\bin\StackExchange.Redis.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\ApplicationInsights.config
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\System.AppContext.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.Web.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MongoDB.Bson.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MongoDB.Driver.Core.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MongoDB.Driver.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MySql.Data.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Neo4jClient.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\StackExchange.Redis.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MongoDB.Bson.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MongoDB.Driver.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MongoDB.Driver.Core.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\MySql.Data.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Neo4jClient.pdb
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Neo4jClient.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\StackExchange.Redis.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.AI.Web.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Cassandra.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\LZ4.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Cassandra.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Charlie\Desktop\Bases 2 Entrega Final (beta)\MVC_Store\MVC_Store\MVC_Store\bin\Microsoft.Extensions.Logging.Abstractions.xml

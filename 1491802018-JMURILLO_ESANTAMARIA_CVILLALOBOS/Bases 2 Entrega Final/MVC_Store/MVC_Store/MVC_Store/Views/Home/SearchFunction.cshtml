@@ -1,0 +1,88 @@
+﻿@model MVC_Store.Models.Product
+
+@{
+    ViewBag.Title = "SearchFunction";
+}
+
+<h2>Products Results:</h2>
+
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                Picture
+            </th>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Units
+            </th>
+        </tr>
+        @for (var i = 0; i < Model.products.Count(); i++)
+        {
+            if (Model.products.Count() > 0)
+            {
+                var product = Model.products.ElementAt(i);
+                var img = Model.imgs.ElementAt(i);
+                <tr>
+                    <td>
+                        <img src="@string.Format("/Home/ShowPicture/{0}", product.img_id)" alt="@img.file_name" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.units)
+                    </td>
+                    <td>
+                        <button>@Html.ActionLink("View", "ViewProduct", "Product", new { name = product.name, description = product.description, price = product.price, units = product.units, product_id = product.id, id_img = product.img_id }, null)</button>
+                        <button>@Html.ActionLink("Add to Cart", "addToCart", "Home", new { name = product.name, description = product.description, price = product.price, units = product.units, id = product.id, id_img = product.img_id }, null)</button>
+                    </td>
+
+                </tr>
+            }
+        }
+    </table>
+</div>
+
+@if (ViewBag.userLog == true)
+{
+    <h2>Users Results:</h2>
+
+    <div>
+        @foreach (var i in ViewBag.userList)
+        {
+
+            if (MVC_Store.Controllers.HomeController.IsFollow(ViewBag.actualUser, i.email) == true)
+            {
+                <p>
+                    @i.email - @i.first @i.last
+                    <button>@Html.ActionLink("Unfollow", "UnfollowUser", "User", new { email = i.email, txt = ViewBag.search_text }, null)</button>
+                    <button>@Html.ActionLink("View Purchase History", "viewUserHistory", "User", new { email = @i.email }, null)</button>
+                </p>
+            }
+            else
+            {
+                <p>
+                    @i.email - @i.first @i.last
+                    <button>@Html.ActionLink("Follow", "FollowNewUser", "User", new { email = i.email, txt = ViewBag.search_text }, null)</button>
+                </p>
+            }
+
+        }
+    </div>
+}
+

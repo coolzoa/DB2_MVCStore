@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "addToCart";
+    List<SelectListItem> list = new List<SelectListItem>();
+    for (int i = 1; i <= ViewBag.units; i++)
+    {
+        list.Add(new SelectListItem() { Text = i.ToString(), Value = i.ToString() });
+    }
+}
+
+<h2>Adding to Cart: @ViewBag.name</h2>
+
+<div>
+    <table class="table">
+        <tr>
+            <td>
+                <img src="@string.Format("/Home/ShowPicture/{0}", @ViewBag.id_img)" />
+            </td>
+            <td>
+                <h4>@ViewBag.description</h4>
+                <h4>$ @ViewBag.price</h4>
+                <h4>Units in Stock: @ViewBag.units</h4>
+                @{TempData["Data1"] = ViewBag.product_id;}
+                @using (Html.BeginForm("addToCart", "User"))
+                {
+                    <h4>
+                        Units I want: @Html.TextBox("unitsWanted")
+                    </h4>
+                    <h4>
+                        <input type="hidden" name="p_id" value="@ViewBag.product_id" />
+                        <input type="submit" value="Add to Cart" />
+                    </h4>
+                }
+            </td>
+        </tr>
+    </table>
+</div>
+

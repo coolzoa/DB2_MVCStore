@@ -1,0 +1,58 @@
+﻿@model MVC_Store.Models.Product
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome to our Store :)</h2>
+
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                Picture
+            </th>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Units
+            </th>
+        </tr>
+        @for (var i = 0; i < Model.imgs.Count(); i++) {
+            if (Model.imgs.Count() > 0) {
+                var product = Model.products.ElementAt(i);
+                var img = Model.imgs.ElementAt(i);
+                <tr>
+                    <td>
+                        <img src="@string.Format("/Home/ShowPicture/{0}", img.id.ToString())" alt="@img.file_name" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => product.units)
+                    </td>
+                    <td>
+                        <button>@Html.ActionLink("View", "ViewProduct", "Product", new { name = product.name, description = product.description, price = product.price, units = product.units, product_id = product.id, id_img = img.id.ToString() }, null)</button>
+                        <button>@Html.ActionLink("Add to Cart", "addToCart", "Home", new { name = product.name, description = product.description, price = product.price, units = product.units, id = product.id, id_img = img.id.ToString() }, null)</button>
+                    </td>
+
+                </tr>
+            }
+        }
+    </table>
+</div>
+

@@ -1,0 +1,148 @@
+﻿
+@{
+    ViewBag.Title = "ViewProduct";
+}
+
+<h2>@ViewBag.name</h2>
+
+<div>
+    <table class="table">
+        <tr>
+            <td>
+                <img src="@string.Format("/Home/ShowPicture/{0}", @ViewBag.id_img)"/>
+            </td>
+            <td>
+                <h4>@ViewBag.description</h4>
+                <h4>$ @ViewBag.price</h4>
+                <h4>Units in Stock: @ViewBag.units</h4>
+                <h4>
+                    <button>@Html.ActionLink("Add to Cart", "addToCart", "Home", new { name = @ViewBag.name, description = @ViewBag.description, price = @ViewBag.price, units = @ViewBag.units, id = @ViewBag.id_product, id_img = ViewBag.id_img }, null)</button>
+                </h4>
+            </td>
+        </tr>
+    </table>
+</div>
+
+@try
+{
+    <div>
+        @if (ViewBag.iHaveThis == true) {
+            <h4>Product Rating: </h4>
+            if (ViewBag.thereIsRating == true) {
+                <p>@ViewBag.cal.rating Stars</p>
+            }else
+            {
+                <p>
+                    Give Rating of: 
+                    <button>@Html.ActionLink("1", "setRating", "Product", new { id_product = ViewBag.id_product, rating = 1 }, null)</button>
+                    <button>@Html.ActionLink("2", "setRating", "Product", new { id_product = ViewBag.id_product, rating = 2 }, null)</button>
+                    <button>@Html.ActionLink("3", "setRating", "Product", new { id_product = ViewBag.id_product, rating = 3 }, null)</button>
+                    <button>@Html.ActionLink("4", "setRating", "Product", new { id_product = ViewBag.id_product, rating = 4 }, null)</button>
+                    <button>@Html.ActionLink("5", "setRating", "Product", new { id_product = ViewBag.id_product, rating = 5 }, null)</button>
+                </p>
+            }
+        }
+    </div>
+}
+catch (Exception) { }
+
+<p>______________________________________________________________________________________________________________________________________________</p>
+
+@if (ViewBag.userLog == true)
+{
+    <div>
+        <h3>Comments:</h3>
+        @{TempData["Data1"] = ViewBag.id_product;}
+        @{TempData["Data2"] = ViewBag.name;}
+        @{TempData["Data3"] = ViewBag.description;}
+        @{TempData["Data4"] = ViewBag.price;}
+        @{TempData["Data5"] = ViewBag.units;}
+        @{TempData["Data6"] = ViewBag.id_img;}
+
+        @using (Html.BeginForm("uploadComment", "Product"))
+        {
+            @Html.Label("Write a Comment:")<br />
+            @Html.TextArea("item_comment", new { @class = "required", @cols = 40, @rows = 5 })<br /><br />
+            <input type="hidden" name="p_id" value="@ViewBag.product_id" />
+            <input type="submit" value="Upload Comment"/>
+        }
+    </div>
+}
+
+@foreach (var i in ViewBag.comments) {
+    <br />
+    <h4><b>
+            @i.userid - Rating: 
+            @try
+            {
+                foreach (var j in ViewBag.califications)
+                {
+                    if (i.userid.Equals(j.iduser))
+                    {
+                        @j.rating
+                    }
+                }
+            }
+            catch (Exception) { }
+    </b></h4>
+    <p>@i.text</p>
+
+    try
+    {
+        if (ViewBag.actualUser.Equals(i.userid))
+        {
+        <button>@Html.ActionLink("Remove Comment", "deleteComment", "Product", new { postid = i.postid }, null)</button>
+        }
+    }
+    catch (Exception) { }
+    <p>______________________________________________________________________</p>
+
+
+}
+<h3>Recomendations:</h3>
+
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                Picture
+            </th>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Units
+            </th>
+        </tr>
+        @foreach (var i in ViewBag.selected)
+        {
+            <tr>
+                <td>
+                    <img src="@string.Format("/Home/ShowPicture/{0}", i.img_id)" />
+                </td>
+                <td>
+                   @i.name
+                </td>
+                <td>
+                    @i.description
+                </td>
+                <td>
+                    @i.price
+                </td>
+                <td>
+                    @i.units
+                </td>
+                <td>
+                    <button>@Html.ActionLink("View", "ViewProduct", "Product", new { name = @i.name, description = @i.description, price = @i.price, units = @i.units, product_id = @i.id, id_img = @i.img_id }, null)</button>
+                    <button>@Html.ActionLink("Add to Cart", "addToCart", "Home", new { name = @i.name, description = @i.description, price = @i.price, units = @i.units, id = @i.id, id_img = @i.img_id }, null)</button>
+                </td>
+            </tr>
+          } 
+    </table>
+</div>
